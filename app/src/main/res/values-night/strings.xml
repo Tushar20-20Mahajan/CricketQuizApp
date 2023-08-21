@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eg_tushar">eg. Tushar</string>
+    <string name="your_name">Your Name</string>
+    <string name="start">Start</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please Enter your Name</string>
+    <string name="quiz_app">Cricket Quiz🏏</string>
+    <string name="cricket_quiz_images">Cricket Quiz Images</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result">RESULT</string>
+    <string name="image">image</string>
+    <string name="hye_congratulations">HYE , CONGRATULATIONS!</string>
+    <string name="finish">FINISH</string>
+</resources>

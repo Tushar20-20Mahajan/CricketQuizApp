@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#61677A</color>
+    <color name="pressed_border_color">#0023D1</color>
+    <color name="normal_border_color">#2D2929</color>
+    <color name="focused_border_color">#0040FE</color>
+    <color name="correctAnswer">#68AF15</color>
+    <color name="wrongAnswer">#D30000</color>
+</resources>
